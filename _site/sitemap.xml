@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/textlog/2017/01/15/about-this-jekyll-theme/</loc>
+<lastmod>2017-01-15T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>/textlog/2017/01/15/example-content/</loc>
+<lastmod>2017-01-15T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>/textlog/2017/01/15/history-of-lorem-ipsum/</loc>
+<lastmod>2017-01-15T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>/textlog/2017/01/15/whats-jekyll/</loc>
+<lastmod>2017-01-15T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>/textlog/about/</loc>
+</url>
+<url>
+<loc>/textlog/</loc>
+</url>
+<url>
+<loc>/textlog/tagged/</loc>
+</url>
+</urlset>
