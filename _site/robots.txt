@@ -1,1 +1,1 @@
-Sitemap: /textlog/sitemap.xml
+Sitemap: /sitemap.xml
